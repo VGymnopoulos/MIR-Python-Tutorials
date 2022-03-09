@@ -1,1 +1,1 @@
-# reimagined-octo-palm-tree
+# Thesis project: Audio signal processing using maschine learning
