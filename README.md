@@ -1,1 +1,1 @@
-# Thesis project: Audio signal processing using maschine learning
+#Repository of examples for my thesis project
