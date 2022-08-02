@@ -1,1 +1,2 @@
-## Repository of examples for my thesis project
+## Εξαγωγή μουσικής πληροφορίας με χρήση Python
+
